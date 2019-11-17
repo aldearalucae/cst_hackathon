@@ -1,1 +1,1 @@
-# cst_hackathon
+# CiucasLaPet
